@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-def wiki_random():
+def get_wiki_random():
     """
     - Get random article from Wikipedia. 
 
@@ -16,3 +16,4 @@ def wiki_random():
 
     print(title)
     print(url)
+    
