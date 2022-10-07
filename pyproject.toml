@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wiki-random"
-version = "0.1.0"
+version = "0.1.1"
 description = "get random article from wikipedia"
 authors = ["Igor Moryto <56959606+Ezykill@users.noreply.github.com>"]
 readme = "README.md"
