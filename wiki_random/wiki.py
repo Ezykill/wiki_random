@@ -14,6 +14,5 @@ def get_wiki_random():
 
     url = "https://en.wikipedia.org/wiki/%s" % title
 
-    print(title)
-    print(url)
+    return title,url
     
